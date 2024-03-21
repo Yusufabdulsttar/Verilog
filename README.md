@@ -1,4 +1,4 @@
-# Dual Traffic Light Control in Verilog with Icarus Verilog Simulation
+## Dual Traffic Light Control in Verilog with Icarus Verilog Simulation
 
 ### This project is a simple traffic light controller made with Verilog. It controls two traffic lights, A and B, through a cycle that repeats. Here’s how it works:
 
